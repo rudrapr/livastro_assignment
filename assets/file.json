@@ -1,0 +1,15 @@
+{
+  "header_0": "Total No of Boxes to be displayed on each side",
+  "header_1": "Max No of Total Selections allowed for selecting on both the sides",
+  "header_2": "Max No of Alphabets allowed for selecting",
+  "header_3": "Max No of Numbers allowed for selecting",
+  "error_0": "Unable to select as Max No of Alphabet reached (11)",
+  "error_1": "Unable to select as Max No of Numbers reached (9)",
+  "error_2": "Unable to select as Max No of Selections Reached (20)",
+  "error_3": "You cannot enter value more than 22 in Max No of Selections.",
+  "error_4": "You cannot enter value more than 11 in Max No of Alphabets",
+  "error_5": "You cannot enter value more than 11 in Max No of Numbers",
+  "error_6": "Only Max of 11 select boxes can be Created, enter value less than or equal to 11",
+  "success": "Success",
+  "btn": "Reset all values to '0'"
+}
